@@ -54,6 +54,10 @@
 </script>
 
 <style lang="scss" scoped>
+  .config-list {
+    overflow-y: scroll;
+  }
+
   .list-item {
     display: flex;
     justify-content: space-between;
